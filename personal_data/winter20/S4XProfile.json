@@ -1,0 +1,13 @@
+{
+  "account": {
+    "email": "willrfurtado@gmail.com",
+    "fullName": "William Furtado"
+  },
+  "teams": [
+    {
+      "teamName": "Tado",
+      "accessLevel": "Admin",
+      "role": "Artist"
+    }
+  ]
+}
