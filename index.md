@@ -1,6 +1,4 @@
-# Spotify-Data-Analysis: Personal Project
-
-### Carefully Crafted By: *William Furtado*
+### Carefully Crafted By: *William Furtado* | [Code Available Here](https://github.com/willfurtado/Visualizing-Spotify-Data/)
 
 As an avid Spotify user and a lover of all-things-data, the endless possibilites of what I could do with music streaming data have always been
 at the forefront of my mind. This curiosity inspired me to dive head-first into a microcosmic Spotify project.
