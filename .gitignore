@@ -2,3 +2,4 @@
 .cache-willfurtado
 .ipynb_checkpoints
 secrets.py
+__pycache__/
