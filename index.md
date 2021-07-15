@@ -14,4 +14,4 @@ two-dimensional dataset. To visualize my clustering model, I used Python package
 
 4. **[Playlist Analysis:](https://htmlpreview.github.io/?https://github.com/willfurtado/Visualizing-Spotify-Data/blob/master/html_files/Playlist%20Analysis.html)** Using Spotify's Web API, I constructed a series of Python Classes (CurrentUser, Playlist, Track) that stores the necessary information for a given Spotify user. A simple call to the CurrentUser constructor will extract all songs from all of the user's playlists and their associated metadata. Using this object-oriented approach, I created tools to compare two different playlists using a visualization of their audio features and a theoretical matching score.
 
-All aforementioned visuals are included within the `data_visualization` folder, and the CSV file contain all features for my streaming history can be found in the `features` folder.
+All aforementioned visuals are included within the `images` folder, and the CSV file contain all features for my streaming history can be found in the `data/tops` folder.

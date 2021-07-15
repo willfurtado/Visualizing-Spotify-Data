@@ -1,5 +1,5 @@
 .DS_Store
-.cache-willfurtado
+.cache*
 .ipynb_checkpoints
 secrets.py
 __pycache__/
