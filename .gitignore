@@ -2,5 +2,5 @@
 .cache*
 .cache
 .ipynb_checkpoints
-secrets.py
+credentials.py
 __pycache__/
