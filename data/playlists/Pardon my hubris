@@ -1,0 +1,3 @@
+,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
+Scooby,0.779,0.311,6,-18.189,1,0.285,0.597,0.00056,0.132,0.488,149.922,audio_features,4SVNBpvhXu8agkCRqWl09o,spotify:track:4SVNBpvhXu8agkCRqWl09o,https://api.spotify.com/v1/tracks/4SVNBpvhXu8agkCRqWl09o,https://api.spotify.com/v1/audio-analysis/4SVNBpvhXu8agkCRqWl09o,108434,4
+Telegraph,0.639,0.322,0,-12.219,1,0.0593,0.642,0.3,0.124,0.328,171.969,audio_features,2JooSRWzaP1XqLvfA2JFiQ,spotify:track:2JooSRWzaP1XqLvfA2JFiQ,https://api.spotify.com/v1/tracks/2JooSRWzaP1XqLvfA2JFiQ,https://api.spotify.com/v1/audio-analysis/2JooSRWzaP1XqLvfA2JFiQ,202674,4
